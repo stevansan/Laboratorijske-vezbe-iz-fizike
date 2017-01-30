@@ -1,5 +1,5 @@
-# Laboratorijske-vezbe-iz-fizike
-ETF, laboratorijske vezbe iz fizike
+# Laboratorijske vežbe iz fizike
+Elektrotehnički fakultet u Beogradu
 
 Ovde možete naći tabele za računanje rezultata i mernih nesigurnosti za predmet laboratorijske vežbe iz fizike na ETF-u.
 
